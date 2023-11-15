@@ -1,4 +1,4 @@
-Hello World! 👋
+Hello 👋
 
 I'm Eda Özdemir, a developer who has stepped into the world of computer programming with a passion for creating clean, functional, and user-friendly web applications. I'm open to collaboration and eagerly looking forward to working together on exciting projects! Let's collaborate and come up with innovative solutions.
 
