@@ -10,6 +10,7 @@ About Me
 
 Contact
 📧 Email: ozdemireda02@gmail.com
+
 Key Skills
 JavaScript (React, Node.js)
 HTML, CSS, SASS
